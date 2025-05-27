@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Holy Agyei
 description: CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓  Sophomore, Computer Science @ Grambling State University
+  - "🔬 Research: AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach"
+  - "📍 Based in Louisiana, LA"
+  - "🚀 Passionate about collecting, analysing and working on data for impacts"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/taquavian-johnson/](https://www.linkedin.com/in/holy-agyei-247bab313/
 image: /assets/images/me.jpg
 ---
