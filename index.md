@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about collecting, analysing and working on data for impacts"
 
 linkedin: https://www.linkedin.com/in/holy-agyei-247bab313/
-image: /assets/images/me.jpg
+image: /assets/images/me.jpeg
 ---
