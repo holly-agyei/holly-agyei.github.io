@@ -34,7 +34,7 @@ about:
       caption: Recharging with music and clear skies—my peace outside the code.
     - image: /assets/images/me-basketball.png
       caption: Staying grounded and mindful—yes, even while hooping 🧘‍♂️🏀
-    - image: /assets/images/me.jpeg
+    - image: assets/images/me.jpeg
       caption: Reflecting on how far I’ve come—every line of code, a step forward.
     - image: /assets/images/me-pi.png
       caption: Tinkering with Pi, where my curiosity meets creation 💡🤖
