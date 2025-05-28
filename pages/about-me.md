@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Holy Agyei
   role: AI/ML research intern @ CEAMLS SARAI
-  image: /assets/images/me.jpg
+  image: assets/images/me.jpeg
   linkedin: https://www.linkedin.com/in/holy-agyei-247bab313/
   bio: |
     I'm a Computer Science Sophomore at Grambling State University with focus on data, machine learning and software systems.
