@@ -36,6 +36,6 @@ about:
       caption: Staying grounded and mindful—yes, even while hooping 🧘‍♂️🏀
     - image: assets/images/me_reflect.png
       caption: Reflecting on how far I’ve come—every line of code, a step forward.
-    - image: /assets/images/me-pi.png
+    - image: /assets/images/me_pi.jpeg
       caption: Tinkering with Pi, where my curiosity meets creation 💡🤖
 ---
