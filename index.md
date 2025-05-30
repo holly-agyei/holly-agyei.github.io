@@ -1,7 +1,7 @@
 ---
 layout: home
 title: HOLY AGYEI
-description: "**AI/ML Research Intern @ CEAMLS SAIRI**"
+description: "<strong>AI/ML Research Intern @ CEAMLS SAIRI</strong>"
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
