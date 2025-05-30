@@ -32,7 +32,7 @@ about:
   gallery:
     - image: assets/images/me_piano.png
       caption: trying some licks out
-    - image: /assets/images/me-basketball.png
+    - image: /assets/images/me_thinking.jpeg
       caption: Staying grounded and mindful—yes, even while hooping 🧘‍♂️🏀
     - image: assets/images/me_reflect.png
       caption: Reflecting on how far I’ve come—every line of code, a step forward.
