@@ -1,19 +1,18 @@
 ---
 layout: post
-title: "Day 2 – Collaboration, Communication & Web Presence – Team Building, Games, and More Website Work"
-date: 2025-05-28
+title: "Day 1 – Introdruction to Version Control Systems and conflict control-Explored Git and Github"
+date: 2025-05-27
 author: Holy Agyei
-permalink: /day2.html
-tags: ["Communication", "Teamwork", "Web Development", "Research"]
+permalink: /day1.html
+tags: ["Git","Version Control Systems", "GitHub"]
 
 what_i_learned: |
-  Today built on yesterday's momentum, but with a big focus on connection. I learned the value of clear communication—not just in code, but in understanding how others think. We played interactive games that revealed how people guess, collaborate, and interpret things differently. It was fun, but also revealing. I also continued working on my research profile website. Every line I add makes the site feel more like my digital home.  
-  We also discussed our individual research goals and mapped out our road ahead. I joined my assigned team group, and after our conversations, I already love my mentor's approach and energy. I’ll be working on a project involving Deep Q-Networks to help manage diabetes-related comorbidities.
-
+   Today was my first deep dive into version control systems. I explored Git and GitHub, learning how they track changes, collaborate across versions, and manage contributions in software projects. I also looked into tools like Google Docs and how their collaborative model compares with Git-based systems. I now understand what causes merge conflicts—mainly simultaneous edits to the same lines or file—and learned some basic conflict resolution strategies. One exciting milestone: I created my personal research profile website! It’s now live and will serve as a space to track my journey throughout the CEAMLS SARAI program.
 blockers: |
-  While customizing the website, I got a bit stuck styling certain sections to make them responsive across different screen sizes. Also, trying to balance creativity with clarity was challenging—but I’m learning to iterate patiently.
+   I initially had trouble understanding the difference between local and remote repositories, which caused a bit of confusion when pushing changes. Also, Git conflict examples in tutorials sometimes felt too abstract without hands-on scenarios, but that’s something I plan to work through in upcoming days.
 
 reflection: |
-  I really enjoyed today. The games showed how important emotional intelligence is in tech spaces. You don’t just build solutions—you build with people. And continuing to develop my website reminded me how fulfilling it is to shape my own story in code. Talking through my research direction helped everything feel more real and exciting.
+   It felt empowering to gain a foundational grasp of tools that almost every developer uses. Seeing how Git and GitHub enable structured collaboration made me appreciate the complexity behind teamwork in software. I’m looking forward to using these skills in future research and team-based tasks.
+
 
 ---
