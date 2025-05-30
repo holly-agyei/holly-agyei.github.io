@@ -1,22 +1,19 @@
 ---
 layout: post
-title: "Day 4 – Generative AI, File Systems & Content Authentication"
-date: 2025-05-30
+title: "Day 2 – Collaboration, Communication & Web Presence – Team Building, Games, and More Website Work"
+date: 2025-05-28
 author: Holy Agyei
-permalink: /day4.html
-tags: ["Generative AI", "Deep Learning", "Python", "File Systems", "LLMs"]
----
+permalink: /day2.html
+tags: ["Communication", "Teamwork", "Web Development", "Research"]
 
 what_i_learned: |
-  Today we were introduced to the world of generative AI, deep learning, and large language models (LLMs). We covered key concepts like tokenization and embeddings, and explored a wide range of generative AI tools—including Character.AI and others—to understand how these models generate text and images.
-  We played a game (Kirat or something!) to test our understanding, which made learning even more interactive.
-  In our project groups, we analyzed whether images were AI-generated or real and discussed ways to authenticate content using AI signatures and watermarks.
-  We also went deeper into Python—learning advanced file systems, working with disk operations, and using sets effectively.
+  Today built on yesterday's momentum, but with a big focus on connection. I learned the value of clear communication—not just in code, but in understanding how others think. We played interactive games that revealed how people guess, collaborate, and interpret things differently. It was fun, but also revealing. I also continued working on my research profile website. Every line I add makes the site feel more like my digital home.  
+  We also discussed our individual research goals and mapped out our road ahead. I joined my assigned team group, and after our conversations, I already love my mentor's approach and energy. I’ll be working on a project involving Deep Q-Networks to help manage diabetes-related comorbidities.
 
 blockers: |
-  It was a bit challenging to tell real images from AI-generated ones at first. Also, keeping track of how tokenization and embeddings work inside LLMs took some effort to fully understand.
+  While customizing the website, I got a bit stuck styling certain sections to make them responsive across different screen sizes. Also, trying to balance creativity with clarity was challenging—but I’m learning to iterate patiently.
 
 reflection: |
-  I really liked how today's activities connected both theory and practice. It’s one thing to learn about generative AI, but testing it, playing with tools, and discussing real vs. fake content made it feel real. The hands-on Python file system work also helped me feel more confident managing data at a deeper level.
+  I really enjoyed today. The games showed how important emotional intelligence is in tech spaces. You don’t just build solutions—you build with people. And continuing to develop my website reminded me how fulfilling it is to shape my own story in code. Talking through my research direction helped everything feel more real and exciting.
 
 ---
