@@ -1,1 +1,22 @@
+---
+layout: post
+title: "Day 4 – Generative AI, File Systems & Content Authentication"
+date: 2025-05-30
+author: Holy Agyei
+permalink: /day4.html
+tags: ["AI", "Deep Learning", "Generative Models", "Cybersecurity", "Python"]
+---
+
+what_i_learned: |
+  Today’s sessions were packed with insight—from the foundations of generative AI and deep learning to how large language models function. We explored concepts like tokenization, embeddings, and familiarized ourselves with several generative AI tools including Character.AI and more. 
+  We also engaged in a fun knowledge-testing game (Kirat) and later worked in project groups to analyze whether selected images were AI-generated or real. This led into discussions on AI content authentication, digital signatures, and watermarking techniques.
+  On the technical side, we practiced advanced Python concepts, working with file systems, disk operations, and data structures like sets.
+
+blockers: |
+  While experimenting with some generative tools, I found it a bit tricky to differentiate model capabilities and results. Also, understanding embedded content structures in LLMs took a few tries to fully grasp.
+
+reflection: |
+  I’m fascinated by how generative AI can both create and deceive. The image analysis activity made me think deeply about truth, bias, and content authenticity. Today gave me a stronger grasp of how Python interacts with files and systems, and overall, I feel much more grounded in both theory and application.
+
+---
 
